@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/nodejs-spanner?activeTab=versions
 
+### [4.5.2](https://www.github.com/googleapis/nodejs-spanner/compare/v4.5.1...v4.5.2) (2020-01-09)
+
+
+### Bug Fixes
+
+* max backoff should be 32 seconds ([#792](https://www.github.com/googleapis/nodejs-spanner/issues/792)) ([c697240](https://www.github.com/googleapis/nodejs-spanner/commit/c697240c0f1c5d55bee63732b7346e7c95f25dcc))
+
 ### [4.5.1](https://www.github.com/googleapis/nodejs-spanner/compare/v4.5.0...v4.5.1) (2020-01-08)
 
 
